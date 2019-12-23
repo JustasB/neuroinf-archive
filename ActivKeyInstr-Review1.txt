@@ -1,0 +1,17 @@
+This e-mail contains instructions for your help in reviewing 
+submissions to CNS*03. We received a total of 288 submissions).
+
+To start the review process, please go to http://www.neuroinf.org 
+and press the button "my menu" and follow the instructions on the 
+logon-screen. After a successful logon (or new registration if this was 
+your first visit) you will see your menu. 
+Follow the link "Activate my new privileges". You will be asked to
+enter the activation key provided at the bottom of this mail. After 
+submission of this form the system provides a link back to your menu.
+
+When you go back to the menu or logon later you will notice that you have
+a new menu-item :
+"Review records in the database:"
+   Subset : CNS 2003, review step 1 paper submission
+
+Please follow this link to go to the review-form.

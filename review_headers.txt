@@ -1,0 +1,35 @@
+Reviewer view Cat1
+This view allows you to access all relevant info about the paper, download the pdf file and give scores.  This paper must be scored both for publication in the conference proceedings (special issue of the Neurocomputing journal) and for oral presentation.  See the invitation letter for more info.  You give the following scores: <br>
+<b>Quality</b> This is a very important score overall and describes the quality of the work described in the paper. <br>
+<b>Significance</b>  Is the work of sufficient significance to be presented at the CNS meeting?<br>
+<b>Originality</b>  Is the work described original?  Originality is related both to previous work of the authors and to the field overall.  Complete lack of originality should receive a Bad score and may be a reason to reject the paper for publication.<br>
+<b> Correctness </b>  Is the work done using state of the art methods?  Are the equations correct?  A bad score may be a reason to reject the paper for publication. <br>
+<b> Clarity </b>  How clear is the description of the work and results?  Are the illustrations easy to understand and relevant?<br>
+<b> Assignment </b>  Select whether this should be an oral presentation or a poster.  Featured orals can be given only by authors who requested them: you can downgrade their choice to oral or poster, but you cannot upgrade an oral to a featured oral!  Check the motivation why they want to give a featured oral.<br>
+<b>Recommendation</b>  Should this paper be published?  Note that we reject only the worst papers, most papers will be accepted after  a single revision.<br>
+<b>Editor comment</b> Use this field for any private comments to the action editor.<br>
+<b>Author comment</b> This field is very important if you recommend that revisions should be made to the paper.  Remember that there is no re-review so your instructions for revisions should be clear and detailed.<br>
+Press <b>Submit</b> when you are done to save your changes. <br>
+
+Reviewer view Cat2
+This view allows you to access all relevant info about the paper, download the pdf file and give scores.  This paper must be scored only for publication in the conference proceedings (special issue of the Neurocomputing journal).  See the invitation letter for more info.  You give the following scores: <br>
+<b>Quality</b> This is a very important score overall and describes the quality of the work described in the paper. <br>
+<b>Originality</b>  Is the work described original?  Originality is related both to previous work of the authors and to the field overall.  Complete lack of originality should receive a Bad score and may be a reason to reject the paper for publication.<br>
+<b> Correctness </b>  Is the work done using state of the art methods?  Are the equations correct?  A bad score may be a reason to reject the paper for publication. <br>
+<b>Recommendation</b>  Should this paper be published?  Note that we reject only the worst papers, most papers will be accepted after  a single revision.<br>
+<b>Editor comment</b> Use this field for any private comments to the action editor.<br>
+<b>Author comment</b> This field is very important if you recommend that revisions should be made to the paper.  Remember that there is no re-review so your instructions for revisions should be clear and detailed.<br>
+Press <b>Submit</b> when you are done to save your changes. <br>
+
+Reviewer view Cat3
+This view allows you to access all relevant info about the paper, download the pdf file and give scores.  This paper must be scored only for oral presentation.  See the invitation letter for more info.  You give the following scores: <br>
+<b>Quality</b> This is a very important score overall and describes the quality of the work described in the paper. <br>
+<b>Significance</b>  Is the work of sufficient significance to be presented at the CNS meeting?<br>
+<b>Originality</b>  Is the work described original?  Originality is related both to previous work of the authors and to the field overall. <br>
+<b> Correctness </b>  Is the work done using state of the art methods?  Are the equations correct? <br>
+<b> Clarity </b>  How clear is the description of the work and results?  Are the illustrations easy to understand and relevant?<br>
+<b> Assignment </b>  Select whether this should be an oral presentation or a poster.  Featured orals can be given only by authors who requested them: you can downgrade their choice to oral or poster, but you cannot upgrade an oral to a featured oral!  Check the motivation why they want to give a featured oral.<br>
+<b>Editor comment</b> Use this field for any private comments to the action editor.<br>
+Press <b>Submit</b> when you are done to save your changes. <br>
+
+
